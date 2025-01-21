@@ -12,3 +12,4 @@ c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\FUNDAMENTO
 c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\FUNDAMENTOS_SISTEMAS _DIGITALES\ESTRUCTURAS_TERCER_NIVEL\obj\Debug\net8.0\ESTRUCTURAS_TERCER_NIVEL.pdb
 c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\FUNDAMENTOS_SISTEMAS _DIGITALES\ESTRUCTURAS_TERCER_NIVEL\obj\Debug\net8.0\ESTRUCTURAS_TERCER_NIVEL.genruntimeconfig.cache
 c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\FUNDAMENTOS_SISTEMAS _DIGITALES\ESTRUCTURAS_TERCER_NIVEL\obj\Debug\net8.0\ref\ESTRUCTURAS_TERCER_NIVEL.dll
+c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\FUNDAMENTOS_SISTEMAS _DIGITALES\ESTRUCTURAS_TERCER_NIVEL\obj\Debug\net8.0\ESTRUCTURAS_TERCER_NIVEL.sourcelink.json

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\FUNDAMENTOS_SISTEMAS _DIGITALES\\ESTRUCTURAS_TERCER_NIVEL\\ESTRUCTURAS_TERCER_NIVEL.csproj": {}
+    "c:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\FUNDAMENTOS_SISTEMAS _DIGITALES\\ESTRUCTURAS_TERCER_NIVEL\\ESTRUCTURAS_TERCER_NIVEL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\FUNDAMENTOS_SISTEMAS _DIGITALES\\ESTRUCTURAS_TERCER_NIVEL\\ESTRUCTURAS_TERCER_NIVEL.csproj": {
+    "c:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\FUNDAMENTOS_SISTEMAS _DIGITALES\\ESTRUCTURAS_TERCER_NIVEL\\ESTRUCTURAS_TERCER_NIVEL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\FUNDAMENTOS_SISTEMAS _DIGITALES\\ESTRUCTURAS_TERCER_NIVEL\\ESTRUCTURAS_TERCER_NIVEL.csproj",
+        "projectUniqueName": "c:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\FUNDAMENTOS_SISTEMAS _DIGITALES\\ESTRUCTURAS_TERCER_NIVEL\\ESTRUCTURAS_TERCER_NIVEL.csproj",
         "projectName": "ESTRUCTURAS_TERCER_NIVEL",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\FUNDAMENTOS_SISTEMAS _DIGITALES\\ESTRUCTURAS_TERCER_NIVEL\\ESTRUCTURAS_TERCER_NIVEL.csproj",
+        "projectPath": "c:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\FUNDAMENTOS_SISTEMAS _DIGITALES\\ESTRUCTURAS_TERCER_NIVEL\\ESTRUCTURAS_TERCER_NIVEL.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\FUNDAMENTOS_SISTEMAS _DIGITALES\\ESTRUCTURAS_TERCER_NIVEL\\obj\\",
+        "outputPath": "c:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\FUNDAMENTOS_SISTEMAS _DIGITALES\\ESTRUCTURAS_TERCER_NIVEL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
