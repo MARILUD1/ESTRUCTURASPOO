@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ESTRUCTURAS_TERCER_NIVEL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1dae92ad43249a25b36895905b6ae9928caba07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e908dd28cfebb25291c5b32f2320e38e274f447")]
 [assembly: System.Reflection.AssemblyProductAttribute("ESTRUCTURAS_TERCER_NIVEL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ESTRUCTURAS_TERCER_NIVEL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
